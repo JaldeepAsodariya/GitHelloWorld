@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitHelloWorld</string>
+    <string name="info_msg">Hello World! - First GitHub repository</string>
 </resources>
